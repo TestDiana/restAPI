@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/38pcnc3l3cg8ler3?svg=true)](https://ci.appveyor.com/project/TestDiana/restapi)
+
+
 # aqa-code
 Код с лекций Автоматизация тестирования
 
